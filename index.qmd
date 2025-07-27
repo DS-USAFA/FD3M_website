@@ -1,0 +1,15 @@
+---
+title: "Foundations of Data-Driven Decision-Making and Statistical Thinking"
+---
+
+This is a Quarto website. Say something about FD3M.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
+
+This is a link to the [About](about.qmd) page.
+
+This is a link to a specific [section](about.qmd#new-section) in the About page.

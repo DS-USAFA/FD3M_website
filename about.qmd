@@ -1,0 +1,13 @@
+---
+title: "About FD3M"
+---
+
+About this site
+
+```{r}
+1 + 1
+```
+
+# New section {#new-section}
+
+This should probably include the course letter
