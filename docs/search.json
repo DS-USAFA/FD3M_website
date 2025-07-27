@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Reading Assignments",
+    "section": "",
+    "text": "This page includes all the reading assignments and lesson schedule."
+  },
+  {
+    "objectID": "course_project.html",
+    "href": "course_project.html",
+    "title": "Project",
+    "section": "",
+    "text": "This page contains information about the course project."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About FD3M",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nNew section\nThis should probably include the course letter"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Foundations of Data-Driven Decision-Making and Statistical Thinking",
