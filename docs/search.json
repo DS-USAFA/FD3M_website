@@ -2,29 +2,106 @@
   {
     "objectID": "schedule.html",
     "href": "schedule.html",
-    "title": "Reading Assignments",
+    "title": "Course Schedule",
     "section": "",
-    "text": "This page includes all the reading assignments and lesson schedule."
+    "text": "This page includes schedule for the Fall 2025 semester, along with all the assigned readings and graded events.\nOpenIntro Statistics and Introduction to Modern Statistics are both available as a free e-book. They can be downloaded from the links in the course letter, or they can be found in the course Teams page."
   },
   {
     "objectID": "course_project.html",
     "href": "course_project.html",
     "title": "Project",
     "section": "",
-    "text": "This page contains information about the course project."
+    "text": "This page will contain information about the course project."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About FD3M",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nNew section\nThis should probably include the course letter"
+    "text": "The instructors for this course are listed below. Click on each instructor’s name to view more information about them. You can also find the DFMS floor plan, with instructor office’s highlighted.\n\nDr. Brianna Hitt (course director), Office 6D-140\nDr. Jessica Hauschild, Office 6D-186\nLt Col Harris Butler, Office 6D-104\nMaj Justin Merrick, Office 6D-198"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Foundations of Data-Driven Decision-Making and Statistical Thinking",
     "section": "",
-    "text": "This is a Quarto website. Say something about FD3M.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nThis is a link to the About page.\nThis is a link to a specific section in the About page."
+    "text": "This is the course website for the Fall 2025 iteration of Math 300Z/356Z/377Z, Foundations of Data-Driven Decision-Making and Statistical Thinking, or FD3M for short.\n\n\n\n\n\nWe’ve created this website to hold important course information including the course schedule, reading assignments and other graded events, and information for the semester-long project. This information will also be posted to the course Teams page, but we hope this will serve as an easy-to-access hub for this course.\n\n\nYou can find the course letter/course materials on the About this course page.\nYou can find the course schedule with daily reading assignments and other graded events on the Course schedule page.\nYou can find information about the semester-long project on the Course project page."
+  },
+  {
+    "objectID": "index.html#row",
+    "href": "index.html#row",
+    "title": "Foundations of Data-Driven Decision-Making and Statistical Thinking",
+    "section": "Row",
+    "text": "Row\n\nColumn\nThis is the course website for the Fall 2025 iteration of Math 300Z/356Z/377Z, Foundations of Data-Driven Decision-Making and Statistical Thinking, or FD3M for short.\nWe’ve created this website to hold important course information including the course schedule, reading assignments and other graded events, and information for the semester-long project. This information will also be posted to the course Teams page, but we hope this will serve as an easy-to-access hub for this course.\n\n\nColumn\n\n\n\n\n\n\n\nLinks\nYou can find the course letter/course materials on the About this course page.\nYou can find the course schedule with daily reading assignments and other graded events on the Course schedule page.\nYou can find information about the semester-long project on the Course project page.\n\n\nInstructors\nThe instructors for this course are Dr. Brianna Hitt (course director), Dr. Jessica Hauschild, Lt Col Harris Butler, and Maj Justin Merrick."
+  },
+  {
+    "objectID": "schedule.html#block-1-probability-models",
+    "href": "schedule.html#block-1-probability-models",
+    "title": "Course Schedule",
+    "section": "Block 1: Probability Models",
+    "text": "Block 1: Probability Models\n\n\n\nLesson\nTopic\nBEFORE Class\nAFTER Class\nGraded Events (due dates)\n\n\n\n\n1\nIntro to Generative AI\n\n\nGPset 1\n\n\n\n\n2\nIntro to Probability\n\nREAD: Section 3.1 Defining Probability, OpenIntro Statistics\nReading Guide for Lesson 2\n\n\nGPset 2\n\n\nStrengths Activity\n\n\n\n3\nConditional Probability, Bayes’ Rule\n\nREAD: Section 3.2 Conditional Probability, OpenIntro Statistics\nReading Guide for Lesson 3\n\n\nGPset 3\n\n\nProject Group Form\n\n\n\n4\nDiscrete Random Variables\n\nREAD:\n\nSection 10.2 Random variables (Intro through 10.2.4), Computational Probability and Statistics\nSection 3.4 (Intro through 3.4.2) Random Variables, OpenIntro Statistics\n\nReading Guide for Lesson 4\n\n\nGPset 4\n\n\nHW 1\n\n\n\n5\nContinuous Random Variables\n\nREAD:\n\nSection 11.2 Continuous random variables (Intro through 11.2.2) and 11.3 Moments, Computational Probability and Statistics\nSection 3.5 Continuous distributions, OpenIntro Statistics\n\nReading Guide for Lesson 5\n\n\nGPset 5\n\n\nPre-course AI questionnaire\n\n\n\n6\nNamed Distributions\n\nREAD: Section …, OpenIntro Statistics\nReading Guide for Lesson 6\n\n\nGPset 6\n\n\nProject Individual Task #1\n\n\n\n7\nNormal Distribution\n\nREAD: Section …, OpenIntro Statistics\nReading Guide for Lesson 7\n\n\nGPset 7\n\n\nHW 2"
+  },
+  {
+    "objectID": "schedule.html#block-2-data-wrangling-and-visualization",
+    "href": "schedule.html#block-2-data-wrangling-and-visualization",
+    "title": "Course Schedule",
+    "section": "Block 2: Data Wrangling and Visualization",
+    "text": "Block 2: Data Wrangling and Visualization\n\n\n\n\n\n\n\n\n\n\nLesson\nTopic\nBEFORE Class\nAFTER Class\nGraded Events (due dates)\n\n\n\n\n8\nData Provenance / History of Statistics\n\n\nGPset 1\n\n\n\n\n9\nGR1\nStudy! Practice!\n\n\n\n\n10\nData Basics\n\n\n\n\n\n11\nData Collection and Studies\n\n\n\nProject Group Task #1\n\n\n\n12\nTidy Data\n\n\n\n\n\n13\nData Wrangling\n\n\n\n\n\n14\nNumerical Summaries\n\n\n\nHW 3\n\n\n\n15\nData Visualization in 2D\n\n\n\n\n\n16\nData Visualization in 1D\n\n\n\nProject Individual Task #2\n\n\n\n17\nCentrality and Spread\n\n\n\n\n\n18\nGR2\nStudy! Practice!"
+  },
+  {
+    "objectID": "schedule.html#block-3-inference",
+    "href": "schedule.html#block-3-inference",
+    "title": "Course Schedule",
+    "section": "Block 3: Inference",
+    "text": "Block 3: Inference"
+  },
+  {
+    "objectID": "schedule.html#block-4-linear-regression",
+    "href": "schedule.html#block-4-linear-regression",
+    "title": "Course Schedule",
+    "section": "Block 4: Linear Regression",
+    "text": "Block 4: Linear Regression"
+  },
+  {
+    "objectID": "hitt.html",
+    "href": "hitt.html",
+    "title": "Finley Malloc",
+    "section": "",
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "hitt.html#education",
+    "href": "hitt.html#education",
+    "title": "Finley Malloc",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "hitt.html#experience",
+    "href": "hitt.html#experience",
+    "title": "Finley Malloc",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Foundations of Data-Driven Decision-Making and Statistical Thinking",
+    "section": "",
+    "text": "This is the course website for the Fall 2025 iteration of Math 300Z/356Z/377Z, Foundations of Data-Driven Decision-Making and Statistical Thinking, or FD3M for short.\n\n\n\n\n\nWe’ve created this website to hold important course information including the course schedule, reading assignments and other graded events, and information for the semester-long project. This information will also be posted to the course Teams page, but we hope this will serve as an easy-to-access hub for this course.\n\n\nYou can find the course letter/course materials on the About this course page.\nYou can find the course schedule with daily reading assignments and other graded events on the Course schedule page.\nYou can find information about the semester-long project on the Course project page."
+  },
+  {
+    "objectID": "about.html#instructors",
+    "href": "about.html#instructors",
+    "title": "About FD3M",
+    "section": "",
+    "text": "The instructors for this course are listed below. Click on each instructor’s name to view more information about them. You can also find the DFMS floor plan, with instructor office’s highlighted.\n\nDr. Brianna Hitt (course director), Office 6D-140\nDr. Jessica Hauschild, Office 6D-186\nLt Col Harris Butler, Office 6D-104\nMaj Justin Merrick, Office 6D-198"
+  },
+  {
+    "objectID": "about.html#course-letter",
+    "href": "about.html#course-letter",
+    "title": "About FD3M",
+    "section": "Course Letter",
+    "text": "Course Letter\nBelow we highlight sections from the Math 300Z/356Z/377Z Fall 2025 course letter. All cadets are responsible for reading the full version of the course letter.\n\nIntroduction\nWelcome to Math 300Z/356Z/377Z, Foundations in Data-Driven Decision Making & Statistical Thinking (FD3M). This course is designed to provide you with statistical, mathematical and computational tools to answer questions from data by providing a solid foundation in probability and a strong introduction to statistical and descriptive modeling. This is the second iteration of this experimental course, which seeks to become the new core statistics and data science course for all cadets at USAFA.\nCourse Identity: You are now a statistician and a data-driven decision maker!\n\n\nLearning Goals\nThe learning goals for this course are to use computational and mathematical statistical/probabilistic concepts, with assistance from generative AI, to:\n\nArticulate the fundamentals of probability models, including discussions about data provenance and the downstream issues that arise due to choices concerning data,\nCreate data visualizations and numerical summaries to communicate about data for a variety of audiences,\nCompare and contrast what typical and unusual means using a variety of definitions for centrality and spread,\nDesign and execute inferential tasks and precisely communicate the results for a variety of audiences, and\nDetail the basics of the machine learning pipeline, specifically how it relates to linear regression.\n\n\n\nExperimental Section\nThis is an experimental course in data science and statistics that seeks to replace the current three courses in the USAFA core fulfilling the statistical reasoning requirement. This course aims to provide a common experience for cadets while meeting The Department of the Air Force’s articulated several priorities for Airmen and Guardians regarding data acumen. As such, this course will meet all graduation requirements for your major and is designed with your future as officers keenly in mind.\n\n\nCourse Materials\nWe will make extensive use of computational methods which depend heavily on software. We will be using free software called R through a web-based platform called Posit Cloud. Grades and some assignments will be available in Gradescope. Course materials and course communications will be in Microsoft Teams. We prefer Teams as the primary method of communication to instructors.\nIn addition to assigned course readings and activities, we will utilize Generative AI tools such as ChatGPT and NotebookLM to help us understand concepts, generate and understand code, and interpret models and their output throughout the semester. To do so effectively, we must learn to write and iterate prompts and to validate responses from GenAI tools. These tools will be authorized resources for in-class work and projects, unless otherwise stated. We will not be using GenAI tools for GRs because you need to have a foundation in the course concepts, coding and communicating data analysis.\nCourse Text.  The readings for this course will come from four digitally available textbooks:\n\nDavid Diez, Mine Cetinkaya-Rundel, and Christopher D. Barr. OpenIntro Statistics, 4th Edition. Free PDF available at https://openintro.org/book/os/.\nMine Cetinkaya-Rundel and Johanna Hardin. Introduction to Modern Statistics, 2nd Edition. Free web-native version available at https://www.openintro-ims.netlify.app (may not work on MissionNet).\nChester Ismay, Albert Y. Kim, and Arturo Valdivia. Modern Dive (v2). Free e-book available at https://moderndive.com/v2/.\nBradley Warner, Brianna Hitt, and Ken Horton. Computational Probability and Statistics. Free e-book available at https://ds-usafa.github.io/Quarto-Book/.\nAdditional readings provided by the instructor.\n\n\n\nGraded Events\nYour final grade will be based on how well you achieve the five learning goals for the course. Graded events fall into one of three categories: 1) Core Competencies, 2) Application, and 3) Professional Development. Each medal is assessed with one of four marks:\n\nGold – The student understands the material deeply enough to teach to another person.\nSilver – The student understands the material deeply enough to execute concepts on their own.\nBronze – The student is making progress towards understanding this concept, but further work is needed.\nCannot Be Assessed – The student has provided either incoherent evidence of understanding or the medal attempt is incomplete.\n\nThe following are brief descriptions of the medal categories and the associated graded events. More specific details will be provided at the time these assessments are administered.\n\nCore Competencies. There are 12 concepts that every student leaving this course should have proficiency with. Students will have at least 2 opportunities to demonstrate their understanding of each of these concepts during Graded Reviews (GRs). There are four GRs and a final exam.  Each concept is assessed in isolation from the other concepts using a standards-based grading approach.\nApplication. There are three components in the application category: i) specialty concept medals, ii) semester-long group project, and iii) eight homework assignments. The application category has 10 medals.\nProfessional Development. There are three components in this category: i) professional skills, ii) course participation, and iii) reflection. The professional development category has 8 medals.\n\n\n\nDaily Course Rhythm\nEach lesson of this course will have a pre-class reading assignment with a reading guide. In class, after a short (10-15 minute) mini-lecture, we will be working with the ideas from the readings in small groups to complete the GPsets. If time permits, we will transition to practice problems in the daily notetaker. After class, in addition to reviewing your own notes from the day, we recommend that you work on the practice problems in the notetakers and come to EI to ask questions. Remember that the homework questions are a selection of the practice problems in the notetakers, and it is strongly recommended that you complete the practice problems as close to their associated lesson as possible.\n\n\nUse of Artificial Intelligence/Large Language Models\nPlease see the course letter for the full policy of use of AI tools in this course.\n\n\nFinal Comments\nWe are confident in your ability to succeed in this course, but we expect you to have a positive attitude, put in the work and take responsibility for your own learning. Stay engaged, make suggestions for improvement, ask questions, and maintain professionalism. It is up to you what you get from the course. If you have any questions or concerns, please don’t hesitate to ask for help. I’m looking forward to learning and working with you this semester!"
   }
 ]

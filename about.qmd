@@ -2,12 +2,92 @@
 title: "About FD3M"
 ---
 
-About this site
+## Instructors
 
-```{r}
-1 + 1
-```
+The instructors for this course are listed below. Click on each instructor's name to view more information about them. You can also find the [DFMS floor plan](DFMS%20Floor%20Plan.pdf){target="_blank"}, with instructor office's highlighted.
 
-# New section {#new-section}
+-   [Dr. Brianna Hitt](DFMS%20Hitt%20Slide.pdf "Get to know Dr. Hitt"){target="_blank"} (course director), Office 6D-140
 
-This should probably include the course letter
+-   [Dr. Jessica Hauschild](DFMS%20Hauschild%20Slide.pdf "Get to know Dr. Hauschild"){target="_blank"}, Office 6D-186
+
+-   [Lt Col Harris Butler](DFMS%20Butler%20Slide.pdf "Get to know Lt Col Butler"){target="_blank"}, Office 6D-104
+
+-   [Maj Justin Merrick](DFMS%20Merrick%20Slide.pdf "Get to know Maj Merrick"){target="_blank"}, Office 6D-198
+
+## Course Letter
+
+Below we highlight sections from the Math 300Z/356Z/377Z Fall 2025 course letter. All cadets are responsible for reading the [full version of the course letter](Math%20300Z%20356Z%20377Z%20Fall%202025%20Course%20Letter.pdf){target="_blank"}.
+
+### Introduction
+
+Welcome to Math 300Z/356Z/377Z, *Foundations in Data-Driven Decision Making & Statistical Thinking (FD3M)*. This course is designed to provide you with statistical, mathematical and computational tools to answer questions from data by providing a solid foundation in probability and a strong introduction to statistical and descriptive modeling. This is the second iteration of this experimental course, which seeks to become the new core statistics and data science course for all cadets at USAFA.
+
+***Course Identity:*** You are now a statistician and a data-driven decision maker!
+
+### Learning Goals
+
+The learning goals for this course are to use computational and mathematical statistical/probabilistic concepts, with assistance from generative AI, to:
+
+-   Articulate the fundamentals of probability models, including discussions about data provenance and the downstream issues that arise due to choices concerning data,
+
+-   Create data visualizations and numerical summaries to communicate about data for a variety of audiences,
+
+-   Compare and contrast what typical and unusual means using a variety of definitions for centrality and spread,
+
+-   Design and execute inferential tasks and precisely communicate the results for a variety of audiences, and
+
+-   Detail the basics of the machine learning pipeline, specifically how it relates to linear regression.
+
+### Experimental Section
+
+This is an experimental course in data science and statistics that seeks to replace the current three courses in the USAFA core fulfilling the statistical reasoning requirement. This course aims to provide a common experience for cadets while meeting The Department of the Air Force’s articulated several priorities for Airmen and Guardians regarding data acumen. As such, this course will meet all graduation requirements for your major and is designed with your future as officers keenly in mind.
+
+### Course Materials
+
+We will make extensive use of computational methods which depend heavily on software. We will be using free software called R through a web-based platform called Posit Cloud. Grades and some assignments will be available in Gradescope. Course materials and course communications will be in Microsoft Teams. We prefer Teams as the primary method of communication to instructors.
+
+In addition to assigned course readings and activities, we will utilize Generative AI tools such as ChatGPT and NotebookLM to help us understand concepts, generate and understand code, and interpret models and their output throughout the semester. To do so effectively, we must learn to write and iterate prompts and to validate responses from GenAI tools. These tools will be authorized resources for in-class work and projects, unless otherwise stated. We will not be using GenAI tools for GRs because you need to have a foundation in the course concepts, coding and communicating data analysis.
+
+**Course Text**.  The readings for this course will come from four digitally available textbooks:
+
+-   **David Diez,** **Mine Cetinkaya-Rundel, and Christopher D. Barr.** OpenIntro Statistics, 4^th^ Edition. Free PDF available at [https://openintro.org/book/os/.](https://openintro.org/book/os/)
+
+-   **Mine Cetinkaya-Rundel and Johanna Hardin**. *Introduction to Modern Statistics*, 2^nd^ Edition. Free web-native version available at <https://www.openintro-ims.netlify.app> (may not work on MissionNet).
+
+-   **Chester Ismay, Albert Y. Kim, and Arturo Valdivia**. *Modern Dive (v2).* Free e-book available at <https://moderndive.com/v2/>.
+
+-   **Bradley Warner, Brianna Hitt, and Ken Horton**. *Computational Probability and Statistics*. Free e-book available at <https://ds-usafa.github.io/Quarto-Book/>.
+
+-   *Additional readings provided by the instructor.*
+
+### Graded Events
+
+Your final grade will be based on how well you achieve the five learning goals for the course. Graded events fall into one of three categories: 1) Core Competencies, 2) Application, and 3) Professional Development. Each medal is assessed with one of four marks:
+
+-   **Gold** – The student understands the material deeply enough to teach to another person.
+
+-   **Silver** – The student understands the material deeply enough to execute concepts on their own.
+
+-   **Bronze** – The student is making progress towards understanding this concept, but further work is needed.
+
+-   **Cannot Be Assessed** – The student has provided either incoherent evidence of understanding or the medal attempt is incomplete.
+
+The following are brief descriptions of the medal categories and the associated graded events. More specific details will be provided at the time these assessments are administered.
+
+1.  **Core Competencies.** There are 12 concepts that every student leaving this course should have proficiency with. Students will have at least 2 opportunities to demonstrate their understanding of each of these concepts during Graded Reviews (GRs). There are four GRs and a final exam.  Each concept is assessed in isolation from the other concepts using a standards-based grading approach.
+
+2.  **Application.** There are three components in the application category: i) specialty concept medals, ii) semester-long group project, and iii) eight homework assignments. The application category has 10 medals.
+
+3.  **Professional Development.** There are three components in this category: i) professional skills, ii) course participation, and iii) reflection. The professional development category has 8 medals.
+
+### Daily Course Rhythm
+
+Each lesson of this course will have a pre-class reading assignment with a reading guide. In class, after a short (10-15 minute) mini-lecture, we will be working with the ideas from the readings in small groups to complete the GPsets. If time permits, we will transition to practice problems in the daily notetaker. After class, in addition to reviewing your own notes from the day, we recommend that you work on the practice problems in the notetakers and come to EI to ask questions. Remember that the homework questions are a selection of the practice problems in the notetakers, and it is strongly recommended that you complete the practice problems as close to their associated lesson as possible.
+
+### Use of Artificial Intelligence/Large Language Models
+
+Please see the course letter for the full policy of use of AI tools in this course.
+
+### Final Comments
+
+We are confident in your ability to succeed in this course, but we expect you to have a positive attitude, put in the work and take responsibility for your own learning. Stay engaged, make suggestions for improvement, ask questions, and maintain professionalism. It is up to you what you get from the course. If you have any questions or concerns, please don’t hesitate to ask for help. I’m looking forward to learning and working with you this semester!

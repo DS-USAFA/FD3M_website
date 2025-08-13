@@ -2,4 +2,4 @@
 title: "Project"
 ---
 
-This page contains information about the course project.
+This page will contain information about the course project.

@@ -13,7 +13,7 @@ website:
       - href: about.qmd
         text: About this course
       - href: schedule.qmd
-        text: Schedule/reading
+        text: Course schedule
       - href: course_project.qmd
         text: Course project
     tools:
