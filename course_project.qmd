@@ -1,5 +1,5 @@
 ---
-title: "Project"
+title: "Group Project"
 ---
 
 # Introduction
@@ -59,7 +59,7 @@ There are four medals associated with this project:
 
 You will need to use many templates as future officers in the Air Force or Space Force, so we are explicitly including correct use of templates as part of the tasks throughout the project. Correctly using the template is part of each assignment and will contribute to one of the final project medals.
 
-&nbsp;
+ 
 
 # Stage 1 Instructions
 

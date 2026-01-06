@@ -3,8 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "FD3M - Spring 2026"
+  title: "Data-Driven Statistics with AI"
   navbar:
+    title: ""
     background: primary
     search: true
     left:
