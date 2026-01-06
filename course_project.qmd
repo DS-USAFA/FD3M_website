@@ -23,7 +23,7 @@ You will be assigned into groups based on the inputs in your [Group Project Form
 There are several project checkpoints throughout the semester. These checkpoints are designed to help you complete the project successfully without a huge, last-minute effort at the end of the term. There are both group and individual checkpoints, outlined below:
 
 | Task Type and Topic                                               | Due Date | Leader Task? |
-|------------------------|------------------------|------------------------|
+|-------------------------------------------------------------------|----------|--------------|
 | Individual Task #1 - Finding Data                                 | T6       | No           |
 | Group Task #1 - Establishing Group Norms                          | T11      | Yes          |
 | Individual Task #2 - Data Wrangling and Data Viz                  | T15      | Yes          |
