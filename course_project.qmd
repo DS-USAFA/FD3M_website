@@ -2,4 +2,136 @@
 title: "Project"
 ---
 
-This page will contain information about the course project.
+# Introduction
+
+## Executive Summary
+
+In a group of 3-4 statisticians, you will be creating a report about a data set for a Permanent Party Squadron Commander (PPSC). Your final report will state a data-driven conclusion about the data set your group presents. You will work on three individual and four group assignments throughout the semester.
+
+You will be assigned into groups based on the inputs in your [Group Project Form](https://forms.office.com/r/9L2LJEa8qc), submitted by Lesson 04.
+
+## Group Project Learning Objectives
+
+1.  Apply statistical concepts and data science ideas to a data set, with the purpose of making a conclusion.
+
+2.  Create a report that is understandable by a non-statistical audience that makes use of figures, tables, and sections as appropriate.
+
+3.  Work collaboratively in a group setting, leveraging each group member's strengths.
+
+## Checkpoints
+
+There are several project checkpoints throughout the semester. These checkpoints are designed to help you complete the project successfully without a huge, last-minute effort at the end of the term. There are both group and individual checkpoints, outlined below:
+
+| Task Type and Topic                                               | Due Date | Leader Task? |
+|------------------------|------------------------|------------------------|
+| Individual Task #1 - Finding Data                                 | T6       | No           |
+| Group Task #1 - Establishing Group Norms                          | T11      | Yes          |
+| Individual Task #2 - Data Wrangling and Data Viz                  | T15      | Yes          |
+| Group Task #2 - Choosing a Research Question, Dataset, and Mentor | T21      | Yes          |
+| Project Feedback Day (In-class)                                   | M27/T27  | No           |
+| Individual Task #3 - Revising the Exploration                     | T29      | Yes          |
+| Group Task #3 - Proposing a Data Task                             | T34      | Yes          |
+| Group Task #4 - Final Submission                                  | T39      | No           |
+
+### Leader tasks
+
+Five of the seven assignments have "Leader tasks" associated with them. Each leader task includes a brief reflection.
+
+**Your group must complete all five leader tasks.** Each statistician in your group **must** be the leader at least once and **no one** can be the leader more than twice. It is ***strongly*** recommended that your group creates a leader schedule early in the semester to ensure that you meet these conditions and so that everyone knows who will be leading when.
+
+### Mentor Feedback
+
+As part of Group Task #2, groups will select at least one mentor with a military background from whom they will solicit feedback on the mid-term project submission (Group Task #2). The mentor will be asked to provide feedback on the professionalism, formatting, and communication of the mid-term submission using a provided rubric. The mentor should be a non-statistician and can be one of the group member's PPSCs or AMTs, a faculty member, an OIC or OR, or even a sponsor.
+
+### Grading
+
+There are four medals associated with this project:
+
+1.  Draft submission medal, based on the group data proposal (Group Task #2)
+
+2.  Final submission medal, based on final report (Group Task #4)
+
+3.  Final submission medal, based on final report and individual task completion
+
+4.  Feedback medal, based on the quality of feedback you offer your group members at the end of the semester
+
+### Using templates
+
+You will need to use many templates as future officers in the Air Force or Space Force, so we are explicitly including correct use of templates as part of the tasks throughout the project. Correctly using the template is part of each assignment and will contribute to one of the final project medals.
+
+&nbsp;
+
+# Stage 1 Instructions
+
+Note: You may complete Individual Task #1 before project group assignments are finalized.
+
+## Individual Task #1 - Finding Data - Due 2359 on T6
+
+For this first task, you will find a data set that interests you and write a paragraph or two detailing what you find intriguing about it. The only requirement is that the data set must be in a format that Excel can read; so it must have a `.csv`, `.xls`, or `.xlsx` extension.
+
+To look for data, we recommend looking at the following data repositories:
+
+-   [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
+
+-   [538 Data](https://data.fivethirtyeight.com/)
+
+-   [Kaggle](https://www.kaggle.com/datasets)
+
+-   [Data is Plural Newsletters](https://www.data-is-plural.com/)
+
+-   [Registry of Research Data Repositories (re3)](https://www.re3data.org/)
+
+-   [Harvard Dataverse](https://dataverse.harvard.edu/)
+
+-   Anywhere else you find data!
+
+### Leader task
+
+There is no leader task for this assignment.
+
+### Submitting your assignment
+
+Write up a paragraph or two about your data including a link to where you found the data. In your write up, you should describe what the data is about and what you find interesting about it. Your submission should be 1-2 paragraphs in length and typed using the `Stage1_Individual_TEMPLATE.qmd` file. Your final product must be a PDF, submitted on Gradescope.
+
+ 
+
+## Group Task #1 - Establishing Group Norms - Due 2359 on T11
+
+Your team is still fairly new and before you get too far into this project, it is a good idea to establish a set of guidelines, expectations, and social norms. You will also establish a leader schedule for the entirety of the group project.
+
+Below are a few questions that your group should discuss before getting started on this project. This list is by no means exhaustive and some questions may not be relevant to your team.
+
+-   Do we all know each other’s names and majors?
+-   What about a fun fact about each other?
+-   How do we want to be addressed, either in person or online?
+-   How will we manage using laptops or other devices with data extraction tools loaded on them?
+-   What are the best ways to contact each other?
+-   What are our expectations for various forms of communication and response times to those communications? Below is a list of different forms of communication that you may want to consider:
+    -   Phone calls
+    -   Text messages
+    -   Social Media
+    -   Emails
+    -   Teams
+-   How will we determine the leader for each task?
+-   What are the obligations of the leader beyond the leader task?
+-   How do we expect team members to support the task leader?
+-   Should we meet as a team in person? Or do we want to do all our work online?
+    -   If we meet in person, how often should we do that? Weekly? By task?
+-   What time works best for each of us to get work done?
+-   Do we prefer to work individually first and then meet as a team, or do we prefer to meet as a team first and then work individually?
+-   How will we work together when there are both individual and group tasks?
+-   How will we handle conflict if a team member is not pulling their weight or meeting deadlines?
+
+### Leader Task
+
+For this assignment, the leader is tasked with facilitating the team conversation for determining a set of guidelines, expectations, and social norms that all team members are comfortable with and agree to. The leader will submit the list of guidelines, expectations, and social norms that the team has come up with together. They will also submit the team's leader schedule. This does not mean that the leader is the only one who can write up the list of guidelines or that they must develop the leader schedule. This only means that the leader must be the person to submit the assignment for Group Task #1.
+
+#### Leader reflection prompt
+
+Write a short reflection about what it was like to be the leader for your leader task. Be specific about your leader task and experience. Your reflection should discuss what you did to accomplish your leader task, what was challenging about being the leader, what was easy about being the leader, and what you would do differently the next time that you are a leader of a group or team. Your reflection should be one narrative, instead of a list of “answers” to a set of “questions.”
+
+Your reflection should be at least 1 page long and no more than 2 pages long, and it should be typed using the `Leader_Reflection_TEMPLATE.qmd` file. **Your reflection must be submitted at the same time as Group Task #1.** Both parts should be submitted to Gradescope as separate PDFs.
+
+### Submitting your assignment
+
+The leader will submit the group norms and leader schedule to Gradescope as the Group Task #1 assignment (tagging all project group members). Your submission should be typed using the `Stage1_Group_TEMPLATE.qmd` file. Your final product must be a PDF, submitted on Gradescope. The leader will then separately upload their leader reflection to the Leader - Group Task #1 assignment in Gradescope.

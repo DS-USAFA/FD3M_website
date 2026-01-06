@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "FD3M - Fall 2025"
+  title: "FD3M - Spring 2026"
   navbar:
     background: primary
     search: true
