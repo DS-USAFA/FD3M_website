@@ -17,6 +17,8 @@ website:
         text: Course schedule
       - href: course_project.qmd
         text: Course project
+      - href: faqs.qmd
+        text: FAQs
     tools:
       - icon: github
         menu: 
