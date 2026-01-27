@@ -4,7 +4,7 @@ title: "FAQs"
 
 This page will contain answers to Frequently Asked Questions. Use the Table of Contents links in the sidebar to quickly move to a specific question/topic.
 
-&nbsp;
+ 
 
 Many of you expressed excitement for the course, and shared tips from friends/peers on how to be successful in the course.
 
@@ -98,7 +98,7 @@ We did get feedback that some students compared answers on GR questions last sem
 
  
 
-## **Workload and Difficulty of the course** 
+## **Workload and Difficulty of the course**
 
 > While some heard the course was "not too bad", a significant number of students heard the course is "very interesting and challenging" and "relatively difficult" with a "heavy course load". Students expressed concern about "how much time outside of school this class will take up" and its overall workload. Additionally, one student wrote "I have heard that this classes medal system (or Q system), while less punishing, is way more time consuming than points based."
 
@@ -131,7 +131,7 @@ The final GPA for the DFMS statistics courses for the last two semesters are sho
 
 :  
 
-## **Experimental Nature and Uncertainty around the course** 
+## **Experimental Nature and Uncertainty around the course**
 
 > The course's experimental nature itself is a source of concern, as it's "intimidating to take an experimental course because the class might still change and develop which can make it stressful". Students are "concerned for the experimental portion" and nervous about being guinea pigs for a "new way of teaching and grading". A student expressed curiosity as to "why the 300, 356 and 377 were so similar in the first place that they could be combined".
 
