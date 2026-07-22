@@ -32,7 +32,7 @@ Many of you expressed excitement for the course, and shared tips from friends/pe
 >
 > -   "I haven't heard anything about it, going to just see how it goes for myself"
 
-About 13% of the cadets in the course haven't heard much about Math Z yet, or are "excited" and feeling "positive" about the coming semester, the content of the course, or the move away from traditional points.
+Some of the cadets in the course haven't heard much about DataSci 220 yet, or are "excited" and feeling "positive" about the coming semester, the content of the course, or the move away from traditional points.
 
  
 
@@ -106,7 +106,7 @@ We did get feedback that some students compared answers on GR questions last sem
 
 We are asking you to complete daily work (GPsets and reading guides) because it's important for you to practice the skills in this course on a daily basis. Remember that all the daily work is graded on completion. We don't expect you to understand all concepts or examples before class. We just expect that you complete the reading assignment, interact with the NotebookLM reading guide in some way, and bring questions to class.
 
-This course is a 3-credit hour course. The expectation for all 3-credit hour courses is for every one hour class session, you should spend 2 hours outside of class working on that course. If you have Math Z on a Monday, Wednesday, Friday in a given week, that means you should expect to spend \~6 hours outside class on the course that week.
+This course is a 3-credit hour course. The expectation for all 3-credit hour courses is for every one hour class session, you should spend 2 hours outside of class working on that course. If you have DataSci 220 on a Monday, Wednesday, Friday in a given week, that means you should expect to spend \~6 hours outside class on the course that week.
 
 ### **Non-math penalties / grading for terminology**
 
@@ -114,30 +114,11 @@ We did get feedback that some students compared answers on GR questions last sem
 
 This is not a pass/fail class and we don't expect you to know all the concepts verbatim. That being said, communication is very important in statistics. Much of the GRs are focused on concepts and communication rather than calculations or code. To achieve a certain core competency standard, you need to be able to correctly implement and communicate about a particular topic. Also, there are three things we expect you to know "word-for-word" in this class by the end of the semester, but we'll footstomp those A LOT so you know what to expect.
 
-### **Comparisons to current versions of Math 300/356/377**
+### **Comparisons to old versions of Math 300/356/377**
 
-The current versions of Math 300, Math 356, and Math 377 cover the same four blocks of content that we'll cover this semester. All three courses use R/RStudio in the Posit Cloud environment, and all three courses emphasize simulation-based inference over more traditional methods like using t- and Z-tables.
+The old versions of Math 300, Math 356, and Math 377 covered the same four blocks of content that we'll cover this semester. All three courses used R/RStudio in the Posit Cloud environment, and all three courses emphasized simulation-based inference over more traditional methods like using t- and Z-tables.
 
-This is not a 'harder' version of Math 300 nor is it an 'easier' version of Math 356, but we recognize that some of you have heard "it's much more difficult to earn a good grade in comparison to 'regular' stats". The main differences in Math 300, Math 356, and Math 377 were in the depth of content. This course combines those three populations (and cadets who would have previously taken BehSci 332) and makes adjustments as appropriate.
-
-The final GPA for the DFMS statistics courses for the last two semesters are shown below:
-
-| Course | Final GPA in Spring 2025 | Final GPA in Fall 2025 |
-|----|----|----|
-| Math Z | 2.89 | 2.81 |
-| Math 300 (regular) | 2.67 | 2.95 |
-| Math 356 (regular) | 3.04 | 3.04 |
-| Math 377 (regular, Fall 2024 for comparison) |  | 2.96 |
-
-:  
-
-## **Experimental Nature and Uncertainty around the course**
-
-> The course's experimental nature itself is a source of concern, as it's "intimidating to take an experimental course because the class might still change and develop which can make it stressful". Students are "concerned for the experimental portion" and nervous about being guinea pigs for a "new way of teaching and grading". A student expressed curiosity as to "why the 300, 356 and 377 were so similar in the first place that they could be combined".
-
-This course is no longer experimental! There has been a push for the USAFA core curriculum to provide a common experience for cadets, no matter their major, and the Air Force and Space Force have clearly expressed a need for greater data acumen among all officers in recent years. This course has been approved by all DF departments and is soon-to-be-approved by the Academy Board as the single core statistics/data science course for cadets from all majors starting in Fall 2026.
-
-That being said, "experimental" or "Z" courses can definitely seem intimidating at first, but we've put a lot of thought into this course. The course will not be changing while you take it this semester, but we do welcome your feedback as we continue to develop this course for future semesters.
+This is not a 'harder' version of Math 300 nor is it an 'easier' version of Math 356. This course is a brand new course that combines the populations from Math 300, 356, 377 and BehSci 332 and makes adjustments as appropriate.
 
 ### **Is this a new way of teaching/grading?**
 

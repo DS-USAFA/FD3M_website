@@ -8,7 +8,7 @@ title: "Group Project"
 
 In a group of 3-4 statisticians, you will be creating a report about a data set for a Permanent Party Squadron Commander (PPSC). Your final report will state a data-driven conclusion about the data set your group presents. You will work on three individual and four group assignments throughout the semester.
 
-You will be assigned into groups based on the inputs in your [Group Project Form](https://forms.office.com/r/9L2LJEa8qc), submitted by Lesson 04.
+You will be assigned into groups based on the inputs in your Group Preferences Form, submitted on Gradescope by Lesson 03.
 
 ## Group Project Learning Objectives
 
@@ -22,16 +22,16 @@ You will be assigned into groups based on the inputs in your [Group Project Form
 
 There are several project checkpoints throughout the semester. These checkpoints are designed to help you complete the project successfully without a huge, last-minute effort at the end of the term. There are both group and individual checkpoints, outlined below:
 
-| Task Type and Topic                                               | Due Date | Leader Task? |
-|-------------------------------------------------------------------|----------|--------------|
-| Individual Task #1 - Finding Data                                 | T6       | No           |
-| Group Task #1 - Establishing Group Norms                          | T11      | Yes          |
-| Individual Task #2 - Data Wrangling and Data Viz                  | T15      | Yes          |
-| Group Task #2 - Choosing a Research Question, Dataset, and Mentor | T21      | Yes          |
-| Project Feedback Day (In-class)                                   | M27/T27  | No           |
-| Individual Task #3 - Revising the Exploration                     | T29      | Yes          |
-| Group Task #3 - Proposing a Data Task                             | T34      | Yes          |
-| Group Task #4 - Final Submission                                  | T39      | No           |
+| Task Type and Topic | Due Date | Leader Task? |
+|----------------------------------------------|-------------|-------------|
+| Individual Task #1 - Finding Data | T6 | No |
+| Group Task #1 - Establishing Group Norms | T11 | Yes |
+| Individual Task #2 - Data Wrangling and Data Viz | T15 | Yes |
+| Group Task #2 - Choosing a Research Question, Dataset, and Mentor | T21 | Yes |
+| Project Feedback Day (In-class) | M27/T27 | No |
+| Individual Task #3 - Revising the Exploration | T29 | Yes |
+| Group Task #3 - Proposing a Data Task | T34 | Yes |
+| Group Task #4 - Final Submission | T39 | No |
 
 ### Leader tasks
 

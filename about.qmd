@@ -4,25 +4,31 @@ title: "About the Course"
 
 ## Instructors
 
-The instructors for this course are listed below. Click on each instructor's name to view more information about them. You can also find the [DFMS floor plan](DFMS%20Floor%20Plan.pdf){target="_blank"}, with instructor office's highlighted.
+The instructors for this course are listed below. Click on each instructor's name to view more information about them. You can also find the [DFMS floor plan](DFMS_Floor_Plan.pdf), with instructor office's highlighted.
 
--   [Dr. Brianna Hitt](DFMS%20Hitt%20Slide.pdf){target="_blank"} (course director), Office 6D-140
+-   [Dr. Brianna Hitt](DFMS_Hitt_Slide.pdf){target="_blank"} (course director), Office 6D-140
 
--   [Dr. Beth Schaubroeck](DFMS%20Schaubroeck%20Slide.pdf){target="_blank"}, Office 6D-112
+-   [Dr. Hauschild-Eastman](DFMS_Hauschild-Eastman_Slide.pdf) (co-course director), Office 6D-186
 
--   [Col Scott Williams](DFMS%20Williams%20Slide.pdf){target="_blank"}, Office 6D-100
+-   [Dr. Beth Schaubroeck](DFMS_Schaubroeck_Slide.pdf){target="_blank"}, Office 6D-112
 
--   [Lt Col Harris Butler](DFMS%20Butler%20Slide.pdf){target="_blank"}, Office 6D-104
+-   [Lt Col Rob Newton](DFMS_Newton_Slide.pdf){target="_blank"}, Office 6D-138
 
--   [Lt Col Rob Newton](DFMS%20Newton%20Slide.pdf){target="_blank"}, Office 6D-218
+-   Maj (S) Matt Shisler, Office 6D-206
 
--   [Lt Col Will Adorno](DFMS%20Adorno%20Slide.pdf){target="_blank"}, Office 6D-242
+-   [Dr. Calli Holaway](DFMS_Holaway_Slide.pdf), Office 4K25C (HCM/CETL Offices, near Language Learning Center)
 
--   [Capt Alex Contarino](DFMS%20Contarino%20Slide.pdf){target="_blank"}, Office 6D-106
+-   Lt Col Isaiah Warnke, Office 6D-220
+
+-   Maj Megan Muniz, Office 6D-170
+
+-   Maj Phil Cho, Office 6D-164
+
+-   MSgt Andrew Swanson, Office 6D-212
 
 ## Course Letter
 
-Below we highlight sections from the Math 300Z/356Z Spring 2026 course letter. All cadets are responsible for reading the [full version of the course letter](Math%20Z%20Spring%202026%20Course%20Materials%2005January2026){target="_blank"}.
+Below we highlight sections from the DataSci 220 Fall 2026 course letter. All cadets are responsible for reading the [full version of the course letter](Math%20Z%20Spring%202026%20Course%20Materials%2005January2026){target="_blank"}.
 
 ### Introduction
 
